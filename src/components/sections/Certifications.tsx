@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Section } from "@/components/ui/section";
+import { Section, SectionHeader } from "@/components/ui/section";
 import { Card, CardContent } from "@/components/ui/card";
 import { Award, ExternalLink } from "lucide-react";
 
