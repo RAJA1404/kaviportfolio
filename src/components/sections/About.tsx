@@ -28,10 +28,9 @@ export default function About() {
             <Image
               src="/profile.jpg"
               alt="Kaviyarasu S"
-              width={500}
-              height={500}
+              fill
               priority
-              className="rounded-full object-cover w-full h-full"
+              className="rounded-full object-cover"
             />
           </div>
         </motion.div>
